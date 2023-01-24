@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marlborocool/](https://github.com/marlborocool/)
+- 👨‍💻 All of my projects are available at [https://github.com/smartdev0328/](https://github.com/marlborocool/)
 
 - 💬 Ask me about **React/Next.js, Vue.js, Node.js, Laravel, Blockchain, Python, Django, Solidity**
 
