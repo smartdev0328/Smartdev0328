@@ -50,7 +50,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
     <a href="#" target="_blank"> 
-        <code><img src="https://cdn-icons-png.flaticon.com/512/7829/7829596.png " alt="c++" width="50" height="50"/></code> 
+        <code><img src="https://cdn-icons-png.flaticon.com/512/7829/7829596.png" alt="c++" width="50" height="50"/></code> 
     </a>
     <a href="https://www.php.net/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></code> 
