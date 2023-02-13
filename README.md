@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/smartdev0328/](https://github.com/marlborocool/)
 
-- 💬 Ask me about **React/Next.js, Vue.js, Node.js, Laravel, Blockchain, Python, Django, Solidity**
+- 💬 Ask me about **React/Next.js, Vue.js, Node.js, Laravel, C#, ASP.NEt, Database, Blockchain, NFT, Defi, Dex, Layer1 chain. Solidity, Golang, Cosmos-sdk, Cosmwasm**
 
 - ⚡ Fun fact **I love to code**
 
@@ -39,7 +39,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
+        <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
     <a href="https://devdocs.io/c/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
